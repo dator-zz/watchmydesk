@@ -1,0 +1,51 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Gdata/Exif
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Entry.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Feed.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Extension
+dir
+
+
+
+add
+

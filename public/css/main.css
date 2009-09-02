@@ -1,0 +1,106 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+a img {
+	border: none;
+}
+
+#conteneur {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 960px;
+}
+
+#conteneur #top {
+	height: 40px;
+	width: 100%;
+	overflow: hidden;
+	background-image: url("/img/design/back_top.png");
+	background-repeat: repeat-x;
+}
+
+#conteneur #header {
+	height: 190px;
+	width: 100%;
+	overflow: hidden;
+	background-image: url("/img/design/back_header.png");
+	background-repeat: repeat-x;
+}
+#conteneur #centre {
+	overflow: hidden;
+}
+#conteneur #footer {
+	height: 142px;
+	width: 100%;
+	overflow: hidden;
+	background-image: url("/img/design/back_footer.png");
+	background-repeat: repeat-x;
+}
+
+#conteneur #header .title_head {
+	float: left;
+}
+#conteneur #header .title_head h1 {
+	color: #2c4f56;
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 35px;
+	margin: 30px 0 15px 80px;
+	text-shadow: 1px 1px 1px #FFF;
+}
+#conteneur #header .title_head h1 span {
+	font-size: 50px;
+	font-style: italic;
+	display: block;
+	margin-left: 40px;
+}
+#conteneur #header .title_head p {
+	color: #444444;	
+	margin: 20px 0 0px 80px;
+	width: 450px;
+}
+#conteneur #header div.join_now {
+	float: right;
+	width: 205px;
+	margin: 30px 80px 0 0;
+	padding: 20px;
+	text-align: center;
+	background: #FFF;
+	border: 1px solid #c0c0c0;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+} 
+#conteneur #top .logo_wmd {
+	float: left;
+	margin-left: 10px;
+}
+
+#conteneur #top .boutons_top {
+	float: right;
+	height: 40px;
+	margin-right: 20px;
+	margin-top: 9px;
+}
+#conteneur #top .boutons_top a.bouton {
+	display: block;
+	background-image: url("/img/design/back_bouton.png");
+	background-repeat: no-repeat;
+	color: #FFF;
+	width: 72px;
+	height: 19px;
+	line-height: 19px;
+	float: left;
+	text-align: center;
+	margin-right: 15px;
+	text-decoration: none;
+}
+
+#conteneur #top .boutons_top a.bouton:hover {
+	background-image: url("/img/design/back_bouton2.png");
+}

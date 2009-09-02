@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<?php echo $this->headTitle() ?>
+<?php echo $this->headScript() ?>
+<link rel="stylesheet" href="/css/main.css" type="text/css" media="screen, projection" />
+<?php echo $this->headStyle() ?>
+<link rel="shortcut icon" href="favicon.ico" />
+</head>
+<body>
+	<div id="conteneur">
+		<div id="top">
+			<a href="<?php echo $this->url(array('language' => $this->language), 'localized_homepage') ?>" class="logo_wmd">
+				<img src="/img/design/logo.png" alt="<?php echo $this->translate("Watch My Desk - Show Off your Geekstation"); ?>" title="<?php echo $this->translate("Watch My Desk - Show Off your Geekstation"); ?>" />
+			</a>
+			<p class="boutons_top">
+				<a href="<?php echo $this->url(array('language' => $this->language), 'browse') ?>" class="bouton">
+					<?php echo $this->translate("Browse"); ?></a>
+				<a href="<?php echo $this->url(array('language' => $this->language), 'register') ?>" class="bouton">
+					<?php echo $this->translate("Join Now"); ?></a>
+				<a href="<?php echo $this->url(array('language' => $this->language), 'login') ?>" class="bouton">
+					<?php echo $this->translate("Login"); ?></a>
+				<a href="<?php echo $this->url(array('language' => $this->language), 'share') ?>" class="bouton">
+					<?php echo $this->translate("Your Desk"); ?></a>
+			</p>
+		</div>
+		<div id="header">
+			<div class='title_head'>
+				<h1><?php echo $this->translate("Show off"); ?><span><?php echo $this->translate("your geekstation."); ?></span></h1>
+				<p><?php echo $this->translate("Watch My Desk is a website where you can share, browse and rate pictures of desks and computers of the world."); ?></p>
+			</div>
+			<div class='join_now'>
+				<p><?php echo $this->translate("Join the website to share your desk or post comments, just in 2 clics !"); ?></p>
+				<a href="<?php echo $this->url(array('language' => $this->language), 'register') ?>">
+					<img src="/img/design/join_now_<?php echo $this->language ?>.png" alt="<?php echo $this->translate("Join now and show off your desk with the community !"); ?>" title="<?php echo $this->translate("Join now and show off your desk with the community !"); ?>" /></a>
+			</div>
+		</div>
+		<div id="centre"><?php echo $this->layout()->content ?></div>
+		<div id="footer"></div>
+	</div><!--end container-->
+
+</body>
+</html>
+

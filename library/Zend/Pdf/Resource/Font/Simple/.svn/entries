@@ -1,0 +1,44 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Pdf/Resource/Font/Simple
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Standard
+dir
+
+
+
+add
+
+Parsed.php
+file
+
+
+
+add
+
+Standard.php
+file
+
+
+
+add
+
+Parsed
+dir
+
+
+
+add
+

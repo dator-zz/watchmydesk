@@ -1,0 +1,65 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Gdata/Books
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+VolumeEntry.php
+file
+
+
+
+add
+
+VolumeFeed.php
+file
+
+
+
+add
+
+CollectionEntry.php
+file
+
+
+
+add
+
+VolumeQuery.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+CollectionFeed.php
+file
+
+
+
+add
+
+Extension
+dir
+
+
+
+add
+

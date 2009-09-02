@@ -1,0 +1,72 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Feed
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Element.php
+file
+
+
+
+add
+
+Entry
+dir
+
+
+
+add
+
+Exception.php
+file
+
+
+
+add
+
+Atom.php
+file
+
+
+
+add
+
+Builder
+dir
+
+
+
+add
+
+Abstract.php
+file
+
+
+
+add
+
+Builder.php
+file
+
+
+
+add
+
+Rss.php
+file
+
+
+
+add
+

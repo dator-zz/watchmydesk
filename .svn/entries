@@ -1,0 +1,49 @@
+9
+
+dir
+1
+http://watchmydesk-zend.googlecode.com/svn/trunk
+http://watchmydesk-zend.googlecode.com/svn
+
+
+
+2009-09-01T21:50:18.346145Z
+1
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+705bb2b4-9741-11de-b180-63b09d506e06
+
+application
+dir
+
+
+
+add
+
+library
+dir
+
+
+
+add
+
+public
+dir
+
+
+
+add
+

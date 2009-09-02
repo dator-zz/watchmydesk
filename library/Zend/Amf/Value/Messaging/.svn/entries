@@ -1,0 +1,72 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Amf/Value/Messaging
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+RemotingMessage.php
+file
+
+
+
+add
+
+ArrayCollection.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ErrorMessage.php
+file
+
+
+
+add
+
+AsyncMessage.php
+file
+
+
+
+add
+
+CommandMessage.php
+file
+
+
+
+add
+
+AbstractMessage.php
+file
+
+
+
+add
+
+AcknowledgeMessage.php
+file
+
+
+
+add
+

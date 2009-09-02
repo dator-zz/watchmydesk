@@ -1,0 +1,142 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Validate/File
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+MimeType.php
+file
+
+
+
+add
+
+Sha1.php
+file
+
+
+
+add
+
+FilesSize.php
+file
+
+
+
+add
+
+NotExists.php
+file
+
+
+
+add
+
+IsCompressed.php
+file
+
+
+
+add
+
+ExcludeMimeType.php
+file
+
+
+
+add
+
+Size.php
+file
+
+
+
+add
+
+Extension.php
+file
+
+
+
+add
+
+Crc32.php
+file
+
+
+
+add
+
+ImageSize.php
+file
+
+
+
+add
+
+IsImage.php
+file
+
+
+
+add
+
+Exists.php
+file
+
+
+
+add
+
+Hash.php
+file
+
+
+
+add
+
+Upload.php
+file
+
+
+
+add
+
+WordCount.php
+file
+
+
+
+add
+
+Md5.php
+file
+
+
+
+add
+
+ExcludeExtension.php
+file
+
+
+
+add
+
+Count.php
+file
+
+
+
+add
+

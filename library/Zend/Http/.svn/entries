@@ -1,0 +1,58 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Http
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Cookie.php
+file
+
+
+
+add
+
+Client.php
+file
+
+
+
+add
+
+Exception.php
+file
+
+
+
+add
+
+Response.php
+file
+
+
+
+add
+
+CookieJar.php
+file
+
+
+
+add
+
+Client
+dir
+
+
+
+add
+

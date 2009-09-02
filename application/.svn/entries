@@ -1,0 +1,79 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/application
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+layouts
+dir
+
+
+
+add
+
+plugins
+dir
+
+
+
+add
+
+Bootstrap.php
+file
+
+
+
+add
+
+models
+dir
+
+
+
+add
+
+forms
+dir
+
+
+
+add
+
+languages
+dir
+
+
+
+add
+
+configs
+dir
+
+
+
+add
+
+modules
+dir
+
+
+
+add
+
+views
+dir
+
+
+
+add
+

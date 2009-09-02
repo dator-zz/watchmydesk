@@ -1,0 +1,30 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/File
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Transfer
+dir
+
+
+
+add
+
+Transfer.php
+file
+
+
+
+add
+

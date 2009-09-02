@@ -1,0 +1,100 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Gdata/Spreadsheets
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+SpreadsheetEntry.php
+file
+
+
+
+add
+
+SpreadsheetFeed.php
+file
+
+
+
+add
+
+ListEntry.php
+file
+
+
+
+add
+
+WorksheetEntry.php
+file
+
+
+
+add
+
+ListFeed.php
+file
+
+
+
+add
+
+WorksheetFeed.php
+file
+
+
+
+add
+
+CellEntry.php
+file
+
+
+
+add
+
+ListQuery.php
+file
+
+
+
+add
+
+CellFeed.php
+file
+
+
+
+add
+
+DocumentQuery.php
+file
+
+
+
+add
+
+CellQuery.php
+file
+
+
+
+add
+
+Extension
+dir
+
+
+
+add
+

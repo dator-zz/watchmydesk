@@ -1,0 +1,149 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Service/Amazon
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+ResultSet.php
+file
+
+
+
+add
+
+Item.php
+file
+
+
+
+add
+
+Exception.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+EditorialReview.php
+file
+
+
+
+add
+
+S3
+dir
+
+
+
+add
+
+Offer.php
+file
+
+
+
+add
+
+SimilarProduct.php
+file
+
+
+
+add
+
+Accessories.php
+file
+
+
+
+add
+
+Abstract.php
+file
+
+
+
+add
+
+Query.php
+file
+
+
+
+add
+
+Ec2.php
+file
+
+
+
+add
+
+OfferSet.php
+file
+
+
+
+add
+
+ListmaniaList.php
+file
+
+
+
+add
+
+Image.php
+file
+
+
+
+add
+
+Ec2
+dir
+
+
+
+add
+
+CustomerReview.php
+file
+
+
+
+add
+
+S3.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

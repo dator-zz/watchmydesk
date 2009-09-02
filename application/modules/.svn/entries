@@ -1,0 +1,30 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/application/modules
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+frontend
+dir
+
+
+
+add
+
+backend
+dir
+
+
+
+add
+

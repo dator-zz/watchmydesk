@@ -1,0 +1,86 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Reflection
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Docblock
+dir
+
+
+
+add
+
+Extension.php
+file
+
+
+
+add
+
+Exception.php
+file
+
+
+
+add
+
+File.php
+file
+
+
+
+add
+
+Docblock.php
+file
+
+
+
+add
+
+Method.php
+file
+
+
+
+add
+
+Parameter.php
+file
+
+
+
+add
+
+Property.php
+file
+
+
+
+add
+
+Class.php
+file
+
+
+
+add
+
+Function.php
+file
+
+
+
+add
+

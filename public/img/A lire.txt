@@ -1,0 +1,16 @@
+Tutorial Symfony Watch My Desk par La Ferme du Web
+
+##############################################################################
+
+Copyrights:
+
+Les images sont distribuées dans le cadre de l'apprentissage de Symfony.
+En aucun cas elles doivent être utilisées à titre personnel ou commercial 
+dans un autre projet web.
+
+##############################################################################
+
+Crédits
+
+Réalisation du design: Benoit Villière
+Concept Watch My Desk et tutorial Symfony: Jonathan Guillemain

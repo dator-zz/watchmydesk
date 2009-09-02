@@ -1,0 +1,37 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Config/Writer
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Array.php
+file
+
+
+
+add
+
+Ini.php
+file
+
+
+
+add
+
+Xml.php
+file
+
+
+
+add
+

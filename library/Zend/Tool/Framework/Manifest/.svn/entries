@@ -1,0 +1,65 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Tool/Framework/Manifest
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Indexable.php
+file
+
+
+
+add
+
+MetadataManifestable.php
+file
+
+
+
+add
+
+Exception.php
+file
+
+
+
+add
+
+Repository.php
+file
+
+
+
+add
+
+Interface.php
+file
+
+
+
+add
+
+ProviderManifestable.php
+file
+
+
+
+add
+
+ActionManifestable.php
+file
+
+
+
+add
+

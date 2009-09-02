@@ -1,0 +1,352 @@
+9
+
+dir
+0
+http://watchmydesk-zend.googlecode.com/svn/trunk/library/Zend/Gdata
+http://watchmydesk-zend.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Gbase
+dir
+
+
+
+add
+
+Exif.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+HttpAdapterStreamingProxy.php
+file
+
+
+
+add
+
+Entry.php
+file
+
+
+
+add
+
+HttpAdapterStreamingSocket.php
+file
+
+
+
+add
+
+Feed.php
+file
+
+
+
+add
+
+MediaMimeStream.php
+file
+
+
+
+add
+
+Exif
+dir
+
+
+
+add
+
+Calendar.php
+file
+
+
+
+add
+
+Gapps.php
+file
+
+
+
+add
+
+Extension.php
+file
+
+
+
+add
+
+Media.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+App.php
+file
+
+
+
+add
+
+Calendar
+dir
+
+
+
+add
+
+Gapps
+dir
+
+
+
+add
+
+Extension
+dir
+
+
+
+add
+
+DublinCore.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Docs.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Media
+dir
+
+
+
+add
+
+App
+dir
+
+
+
+add
+
+Spreadsheets.php
+file
+
+
+
+add
+
+YouTube.php
+file
+
+
+
+add
+
+Kind
+dir
+
+
+
+add
+
+DublinCore
+dir
+
+
+
+add
+
+Docs
+dir
+
+
+
+add
+
+Spreadsheets
+dir
+
+
+
+add
+
+Health.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Query.php
+file
+
+
+
+add
+
+YouTube
+dir
+
+
+
+add
+
+ClientLogin.php
+file
+
+
+
+add
+
+Geo.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+AuthSub.php
+file
+
+
+
+add
+
+Photos.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+Books.php
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+HttpClient.php
+file
+
+
+
+add
+
+Health
+dir
+
+
+
+add
+
+Gbase.php
+file
+
+
+
+add
+
+Geo
+dir
+
+
+
+add
+
+Photos
+dir
+
+
+
+add
+
+Books
+dir
+
+
+
+add
+
